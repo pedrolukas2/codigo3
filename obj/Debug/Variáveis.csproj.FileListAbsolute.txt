@@ -1,0 +1,7 @@
+C:\Users\6110163\source\repos\Variáveis\Variáveis\bin\Debug\Variáveis.exe.config
+C:\Users\6110163\source\repos\Variáveis\Variáveis\bin\Debug\Variáveis.exe
+C:\Users\6110163\source\repos\Variáveis\Variáveis\bin\Debug\Variáveis.pdb
+C:\Users\6110163\source\repos\Variáveis\Variáveis\obj\Debug\Variáveis.csproj.AssemblyReference.cache
+C:\Users\6110163\source\repos\Variáveis\Variáveis\obj\Debug\Variáveis.csproj.CoreCompileInputs.cache
+C:\Users\6110163\source\repos\Variáveis\Variáveis\obj\Debug\Variáveis.exe
+C:\Users\6110163\source\repos\Variáveis\Variáveis\obj\Debug\Variáveis.pdb
